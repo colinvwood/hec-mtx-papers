@@ -3,8 +3,6 @@
 ## Summary
 This paper provides an overview of metatransciptomics as it is applied to human-associated microbial communities. 
 
-## Cross References
-
 ## Notes
 
 ### Overview of wet-lab process, p. 687, fig. 1A
