@@ -10,6 +10,9 @@ A wet-lab technique that enriches a nucleic acid of interest by using nucleic ac
 **Total RNA**
 The collection of all forms of RNA in a cell or environment. Includes rRNA and tRNA which are typically not of interest make up a majority of the cellular RNA. The mRNA component (generally of interest) and noncoding small RNA account for a small proportion of total RNA.
 
+**TPM (transcripts per kilobase million)**
+A metric used to normalize feature counts in an RNA sequencing dataset. Features are first normalized by length by dividing each feature count (e.g. number of reads) by feature length in kilobases (e.g. gene length). Next the length-normalized feature counts are normalized for sequencing depth by dividing by the sum of feature counts per sample, and multiplied by one million. 
+
 **Transcriptome**
 The collection of all RNA molecules (transcripts) in a cell or a population of cells.
 
