@@ -2,7 +2,7 @@
 
 ## Summary
 
-Describes changes made to the SPAdes algorithms that result in a new assembler (rnaSPAdes) adapted to single-cell transcriptome assembly.
+Describes changes made to the SPAdes algorithms that result in a new assembler (rnaSPAdes) adapted to single organism transcriptome assembly.
 
 ## Notes
 
